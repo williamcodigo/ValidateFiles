@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>ValidateFilesWilliamAlexanderAmayaGuerrero</PackageId>
+    <Authors>WilliamAlexanderAmayaGuerrero</Authors>
+    <Description>Biblioteca para validar todo tipo de archivos, validar por extensión o contenido de bytes</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/williamcodigo/ValidateFiles</RepositoryUrl>
+    <PackageTags>Validate, Files, File, Bytes</PackageTags>
+    <Version>1.0.0</Version>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
 </Project>
